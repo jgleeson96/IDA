@@ -1,0 +1,77 @@
+# The Dean Algorithm
+#
+#
+#
+#
+#
+#
+#
+#No matter what we say
+#
+#
+# he always says it
+#
+#
+# we have now automated, the dean
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+name = input("Cad is ainm duit? ")
+feeling = (input("Hows thingles with your shingles {0}, how are ya gettin on? ".format(name)))
+
+print("Well...........")
+
+input()
+input()
+input()
+
+print("Im Dean")
